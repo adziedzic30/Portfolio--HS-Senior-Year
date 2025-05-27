@@ -39,4 +39,13 @@ Key Features:
 - Instant feed back on what the computer chose and wheather or not the user won
 - Score of computer and user is constantly being updated and shown
 - Ability to stop playing at any time
-  
+
+Project #6: Random Image Recommender
+Summary: This code allows the user to have a random image from a list printed for them to see all in the terminal
+Key Features: 
+- Utilizes lists (specifically lists with links to images)
+- Utilizes code to print images in a list
+- Citations of where images were found
+
+Project #7:
+Summary: 
