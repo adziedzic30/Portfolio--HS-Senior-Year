@@ -41,11 +41,18 @@ Key Features:
 - Ability to stop playing at any time
 
 Project #6: Random Image Recommender
-Summary: This code allows the user to have a random image from a list printed for them to see all in the terminal
+Summary: This project allows the user to have a random image from a list printed for them to see all in the terminal
 Key Features: 
 - Utilizes lists (specifically lists with links to images)
 - Utilizes code to print images in a list
 - Citations of where images were found
 
-Project #7:
-Summary: 
+Project #7: To Do List 
+Summary: This project allows the user to create a to-do list by adding and removing tasks from the list
+Key Features:
+- Utilizes the append and remove code features 
+- Gives the user options on what they want to do to their list
+- Prints the list in the terminal
+
+This portfolio also includes my jounral that was used through the entire year, including notes, descriptions, and more projects
+
